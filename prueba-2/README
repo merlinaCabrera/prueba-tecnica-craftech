@@ -1,1 +1,2 @@
-
+Prueba 2 - Despliegue de una aplicación Django y React.js 
+Elaborar el deployment dockerizado de una aplicación en django (backend) con frontend en React.js contenida en el repositorio. Es necesario desplegar todos los servicios en un solo docker-compose.
