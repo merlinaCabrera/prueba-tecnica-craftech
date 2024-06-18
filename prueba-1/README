@@ -1,1 +1,9 @@
-
+Prueba 1 - Diagrama de Red
+Produzca un diagrama de red de una aplicación web en GCP o AWS y escriba una descripción de texto de sus elecciones y arquitectura.
+El diseño debe soportar,
+	- Cargas variables
+	- Contar con HA
+	- Frontend en Js
+	- Backend con una base de datos relacional y una no relacional
+	- La aplicación backend consume 2 microservicios externos
+El diagrama debe hacer un mejor uso de las soluciones distribuidas.
