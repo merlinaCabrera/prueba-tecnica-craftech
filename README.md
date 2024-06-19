@@ -1,4 +1,4 @@
-Resolución de prueba técnica del proceso de selección.
+Resolución de prueba técnica del proceso de selección, 'prueba-tecnica.pdf'
 
 -	La solución de Prueba 1 se encuentra en el directorio 'prueba-1'.
 -	La solución de Prueba 2 se encuentra en el directorio 'prueba-2'.
