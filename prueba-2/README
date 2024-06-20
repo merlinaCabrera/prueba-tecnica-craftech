@@ -1,2 +1,8 @@
 Prueba 2 - Despliegue de una aplicación Django y React.js 
 Elaborar el deployment dockerizado de una aplicación en django (backend) con frontend en React.js contenida en el repositorio. Es necesario desplegar todos los servicios en un solo docker-compose.
+
+
+
+* Las aclaraciones se encuentran en el archivos justificaciones.
+Este ejercicio quedó un poco inconcluso, no terminé de comprender bien Kubernetes para ofrecer una solución más completa para un despliegue de la aplicación en la nube y manejar mejor los recursos. 
+El docker-compose.yml es un YAML simple que despliega el frontend y backend de la aplicación utilizando los Dockerfiles proporcionados en cada diretorio.
