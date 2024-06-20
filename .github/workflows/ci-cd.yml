@@ -60,14 +60,14 @@ jobs:
       run: echo "ejecutando pruebas..." 
 
   # job de aprobación manual
-  aprobacion-manual:
-    needs: construccion 
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
-    steps:
-    - name: aprobación manual
-      uses: chrnorm/deployment-approval-action@v1 
-      with:
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  #aprobacion-manual:
+    #needs: construccion 
+    #runs-on: ubuntu-latest
+    #if: github.ref == 'refs/heads/main'
+    #steps:
+    #- name: aprobación manual
+      #uses: chrnorm/deployment-approval-action@v1 
+      #with:
+        #env:
+          #GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
